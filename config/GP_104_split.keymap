@@ -3,13 +3,8 @@
         compatible = "zmk,keymap";
 
         default_layer {
-
             bindings = <
                 &kp ESC
-                &kp F1
-                &kp F2
-                &kp F3
-                &kp F4
             >;
         };
     };
