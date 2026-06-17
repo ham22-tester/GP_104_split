@@ -1,1 +1,6 @@
+if SHIELD_GP_104_SPLIT
 
+config ZMK_KEYBOARD_NAME
+    default "GP_104_split"
+
+endif
