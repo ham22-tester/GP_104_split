@@ -1,2 +1,0 @@
-config SHIELD_GP_104_SPLIT
-    def_bool y
