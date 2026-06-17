@@ -1,0 +1,10 @@
+file_format: "1"
+id: gp_104_split
+name: GP_104_split
+type: shield
+url: https://github.com/ham22-tester/GP_104_split
+requires:
+  - nice_nano_v2
+features:
+  - keys
+  - encoder
